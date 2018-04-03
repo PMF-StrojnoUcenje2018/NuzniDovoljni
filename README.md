@@ -1,2 +1,2 @@
 # NuzniDovoljni
-Project repository for ML@PMF ZG. Team: Magdalena, Dorian and Mario
+Project repository for ML@PMF ZG. Team: Magdalena, Dorian, Fran i Mario
